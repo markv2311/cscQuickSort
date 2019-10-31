@@ -8,4 +8,9 @@ public class Quick {
     public static void partition(int[] a, int left, int right, int pivot){
         
     }
+    public static void printArray(int[] a){
+        for(int i = 0; i < a.length; i++){
+            System.out.print(a[i] + ", ");
+        }
+    }
 }
