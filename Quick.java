@@ -14,7 +14,7 @@ public class Quick {
         quicksort(a, index, right);
     }
     public static void partition(int[] a, int left, int right, int pivot){
-        
+        System.out.print("Adding on");
     }
     public static void printArray(int[] a){
         for(int i = 0; i < a.length; i++){
