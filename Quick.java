@@ -2,6 +2,8 @@ public class Quick {
     public static void main (String args[]){
         int[] arry = {7,2,1,5,3,10,4,6};
         int[] arry2 = {5,4,3,2,1}; 
+        int[] arry3 = {5,4,3,2,1}; 
+        
     }
     public static void quickSort(int a[], int left, int right){
         if(left>=right)
